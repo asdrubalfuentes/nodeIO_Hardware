@@ -1,0 +1,19 @@
+﻿Project Title: 		Remote_nodeIO_Hardware
+Borard Title: 		Board1
+PCB Title: 		PCB1
+Time: 		2026-08-30 17:23:49
+
+Borard Size: 		89.845mm x 55.795mm
+Layers: 		Total 22, Copper 2
+
+Devices: 		11
+Footprints: 		11
+Components: 		Total 38,Top Layer 32,Bottom Layer 6
+Pads: 		Total 155, Table Stick 83,Metallized Hole 72, Nonmetallic Hole 0
+Nets: 		Total 49, Unrouted 0
+
+Slot Region: 		0
+Vias: 		Total 30, Through Vias 30, Blind Or Buried Vais 0
+CopperAreas: 		3
+Length of Tracks: 		1458.702mm
+
